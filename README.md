@@ -9,3 +9,10 @@ A virtual friend made using Cognimates and Uclassify.
 4) Load the file named "Virtual Friend v2.0"
 5) Click the green flag to start the virtual friend.
 6) Hold the spacebar to talk. Cognimates will ask for your mic permission.
+
+# Questions you can ask:
+
+1) What is your name?
+2) What is the time?
+3) Where do you live?
+4) What is your hobby?
